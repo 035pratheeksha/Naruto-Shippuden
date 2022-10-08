@@ -1,0 +1,15 @@
+<!-- Sakura_Haruno card start-->
+<div class="card mb-3 card-bg my-4" style="max-width: 100%;">
+    <div class="row no-gutters">
+       <div class="col-md-4">
+          <img src=[https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F474233533322764288%2FccbA7Dco_400x400.jpeg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fsweetsakurachan&tbnid=cPwWmfQw1lFFBM&vet=12ahUKEwi6_Orvj9H6AhXZi9gFHb0kAUYQMyghegUIARCjAg..i&docid=XbmnPPnAHuEcpM&w=400&h=400&q=Sakura%20Haruno&ved=2ahUKEwi6_Orvj9H6AhXZi9gFHb0kAUYQMyghegUIARCjAg] alt=[Sakura_Haruno] height="390px" width="300px">  
+        </div>
+        <div class="col-md-8">
+         <div class="card-body">
+            <h2 class="card-title">Sakura_Haruno</h2>
+            <p class="card-text">Sakura Haruno is a fictional character in the Naruto manga and anime series created by Masashi Kishimoto. Sakura is depicted as a kunoichi affiliated with Konohagakure and a part of Team 7, which consists of herself, Naruto Uzumaki, Sasuke Uchiha, and their sensei Kakashi Hatake.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--Sakura_Haruno card end-->
